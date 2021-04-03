@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.4.0",
+    "dialogflow": "^1.2.0",
+    "uuid": "^8.3.2"
+  }
 }
